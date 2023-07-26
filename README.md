@@ -1,2 +1,2 @@
 # signalist
-Researcher who studies signal processing.
+A researcher who studies signal processing.
