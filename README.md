@@ -1,2 +1,2 @@
-# signalist
-A researcher who studies signal processing.
+# signalist.cn
+A researcher who studies signal processing. An academic platform.
